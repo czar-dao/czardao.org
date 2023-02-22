@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "CzarDAO"
+subtitle: |
+  Building the first <span style="color:red">DeFi Options</span> for <span style="color:purple">interchain</span> tokens
+content : |
+  Launched in November 2022, we are a DAO governed by $CZAR stakers on the Juno network building the next generation of DeFi options.
+button:
+  label : "See Our Projects"
+  link : "#first"
+image : "images/banner.jpg"
+

@@ -1,0 +1,9 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title : "Option Vaults"
+content: |
+  Modeled after Ribbon Finance's Decentralized Option Vaults (DOVs), CzarDAO is building vaults that execute automated covered-call strategies. Depositors collect real-yield in the form of option premiums that complement staking yield.
+button:
+  label: "Explore the Proposal"
+  link: "https://commonwealth.im/juno/discussion/8839-option-vaults-by-czardao-draft-proposal"
+image: "images/spotlight02.jpg"

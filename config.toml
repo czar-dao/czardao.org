@@ -1,0 +1,31 @@
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
+title = "CzarDAO"
+theme = "hugo-story"
+
+
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
+
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+# googleAnalytics = "your-google-analytics-id"
+
+
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
+
+[Params]
+  description = "Building DeFi Option products on the Juno network "
+  logo = "images/banner.jpg"
+  custom_css = "/css/userstyle.css"
+  favicon = true
+
+[Params.social]
+  github = "https://github.com/czar-dao/"
+  twitter = "https://twitter.com/czar_dao"
+  discord = "https://discord.gg/AdRfaeEc4A"
+  daodao = "https://daodao.zone/dao/juno13h55qdra3pg87ataedu204jtvezvs6kefqv79m5jmkx084jgzdzszzw7ky"

@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Førecast Prediction Market"
+content: |
+  Juno's first on-chain market for predicting the price of Cosmos / IBC tokens like JUNO. Powered by CzarDAO's binary option contract with 15-minute expiries. <a href="https://github.com/czar-dao/forecast-contracts">Open-source</a> and entirely DAO-owned.
+button: 
+  label: "Play a Round"
+  link: "https://forecast.czardao.org/"
+image: "images/spotlight01.jpg"

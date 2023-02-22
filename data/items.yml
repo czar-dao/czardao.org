@@ -1,0 +1,23 @@
+title : "CzarDAO Fundamentals"
+content: |
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "DAO-governed"
+    content : "The DAO owns all on-chain code; all changes to its on-chain code must pass a majority vote conducted by $CZAR token stakers"
+    style : "style2 major fa-gem"
+
+  # feature item loop
+  - name : "Collecting Real Yield"
+    content : "100% of all revenue collected by CzarDAO's DeFi tools is distributed back to $CZAR token stakers"
+    style : "style2 major fa-chart-bar"
+    
+  # feature item loop
+  - name : "Building Essential DeFi"
+    content : "CzarDAO builds open-source DeFi primitives that the interchain community can easily access"
+    style : "solid style2 major fa-bolt"
+    
+  - name : "Built on Juno"
+    content : "We showcase the Juno network's potential as the home of token-governed DAOs"
+    style : "solid style2 major fa-yin-yang"
+    

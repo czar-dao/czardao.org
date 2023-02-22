@@ -1,0 +1,16 @@
+title: "Core Team"
+style: "style1 medium lightbox onscroll-fade-in"
+content: |
+  These are the core contributors and co-founders of CzarDAO.
+pictures:
+  - title: "Dionysus"
+    content: "Core Contributor + Full-stack Developer"
+    image: "https://twitter.com/xdionysuss"
+    thumb: "images/xdionysuss.jpeg"
+    button: "Twitter"
+
+  - title: "xxangelfire"
+    content: "Core Contributor + Full-stack Developer"
+    image: "https://xxangelfire.com"
+    thumb: "images/xxangelfire.jpeg"
+    button: "Website"
